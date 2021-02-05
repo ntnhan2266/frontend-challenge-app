@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShapeContainer should render the ShapeContainer Component correctly 1`] = `
+<svg
+  height="100vh"
+  width="100vw"
+>
+  <Rect
+    height={100}
+    width={120}
+    x={120}
+    y={120}
+  />
+  <_temp
+    cx={380}
+    cy={150}
+    isIntersected={false}
+    onDrag={[Function]}
+    r={30}
+  />
+</svg>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rect should render the Rect Component correctly 1`] = `
+<Fragment>
+  <rect
+    className="rect"
+  />
+</Fragment>
+`;

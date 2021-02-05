@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`withDragDrop should render HOC component correctly 1`] = `
+<_temp
+  domNodeRef={
+    Object {
+      "current": null,
+    }
+  }
+/>
+`;

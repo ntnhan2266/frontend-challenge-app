@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Circle should render the Circle Component correctly 1`] = `
+<Fragment>
+  <circle
+    className="fill-green"
+  />
+</Fragment>
+`;

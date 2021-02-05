@@ -1,0 +1,14 @@
+.fill-green {
+  fill: green;
+}
+
+.fill-red {
+  fill: red;
+}
+
+.rect {
+  stroke: black;
+  fill: white;
+  stroke-opacity: 1;
+  stroke-width: 1px;
+}
