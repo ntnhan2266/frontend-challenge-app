@@ -49,7 +49,6 @@ class ShapeContainer extends React.Component<any, ShapeContainerState> {
     const isIntersected = intersects(newState.circleProps, newState.rectProps);
     newState = { ...newState, isIntersected };
     this.setState(newState);
-    console.log(newState);
   };
 
   render() {
