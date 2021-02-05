@@ -1,4 +1,3 @@
-import React from "react";
 import { CircleProps } from "components/shapes/Circle";
 import { RectProps } from "components/shapes/Rect";
 
